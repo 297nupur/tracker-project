@@ -1,0 +1,17 @@
+package com.amazonaws.lambda.tracker.model.segment;
+
+public enum AlarmType {
+	LOWBATTERYCAP,
+	LOWTEMPERATURE,
+	HIGHTEMPERATURE,
+	LOWHUMIDITY,
+	HIGHHUMIDITY,
+	LOWPRESSURE,
+	HIGHPRESSURE,
+	HIGHLIGHT,
+	GPSJAMMING,
+	HIGHTILT,
+	INPUT,
+	HOURS,
+	NONE
+}

@@ -1,0 +1,16 @@
+{
+	"_msgid": "7c6f103b.c04ad",
+	"body": {
+		"deviceId": "E84B35",
+		"seqNr": 504,
+		"timestamp": 1547724381,
+		"location": {
+			"accuracy": 370.77,
+			"latitude": 40.44985,
+			"longitude": 3.5726196
+		},
+		"payload": {
+			"messageType": "TwoWiFi"
+		}
+	}
+}	
